@@ -26,26 +26,25 @@ liiton päätavoite.
 - vittu
 
 # 2. Toimenpiteet
-## 2.1 Vahtiminen
 Jos on ainakin kaksi jäsen samassa tilassa (luokassa, käytävässä jne.), heidän tehtävänsä on vahtia toisiaan. Vahtiminen ei
 ole velvollisuus. Vahtimisessa kun yksi kiroaa, toinen pitää tehdä nämä asiat järjestyksessä:
 1. Sanoa ääneen: "`nimi` nimi kirjoissa" äänen niin, että kiroava jäsen kuuluu. 
-2. Laittaa "`nimi`" SKL:n WhatsApp-ryhmään
+2. Laittaa "`nimi`" SKL:n WhatsApp-ryhmään, jonka nimi on Ilmoitautuminen
 
 (`nimi` on kiroavan etunimi)
 Sen jälkeen kiroavan täytyy tehdä yksi alla listavasta asiasta:
 1. Sanoa äskeisen kiroilun tarkoituksensa vastaava kohtelias lause. (esim. "Voi vittu" vaihtuu "Voi ei")
-2. Sanoa anteeksi monimutkaisella tavalla. (esim. "Oi suokoon anteeksi, olen todella pahoillani, että kiroilin äsken.")
+2. Pyydä anteeksi monimutkaisella tavalla. (esim. "Oi suokoon anteeksi, olen todella pahoillani, että kiroilin äsken.")
 3. Tehdä yksi punnerus
 
 Viikon lauantaina sihteeri pitää laittaa WhatsApp-ryhmään laskenta, kuinka paljon kenenkin nimiä on maininnut WhatsApp-ryhmässä.
-Samana päiväna jokainen jäsen pitää maksaa 1€ per nimi sakko luokaretken tilille. Viesti on "`nimi` kiroilusakko"
-(`nimi` on jäsenen etunimi)
+Samana päiväna jokainen jäsen pitää maksaa 0.5€ per nimi sakko luokaretken tilille. Viesti on "`nimi` kiroilusakko"
+(`nimi` on jäsenen etunimi) Jos maksu on yli 100€, vain 100€ tarvitse maksaa.
 
-## 2.2 Kirjallinen sopimus
-Kohtaan 2.1 liityy rahalinen asia. Rahalliset asiat, vaikka on pieni, on tehtävä kirjallinen sopimus. Sopimus tulee olla helposti irtisanova.
-Tavoiteena on, että ennen 22.2.2025 tämä sopimus valmistuu.
+# 3. Jäsenien velvollisuudet
+Jäsenet sitoavat noutataamaan tämän ohjelman kohta 2. Liiton jäsenet ovat ainastaan kaikki luonnolliset henkilöt,
+jotka kuuluuvat SKL:n ylimaailmalliseen yhteisöön. Milloin tahansa voi poistua yhteisöstä, mutta jäljellä jäävät sakkot pitäävät maksaa ensin pois.
 
-# 3. Ohjelman muutaminen
+# 4. Ohjelman muutaminen
 Ohjelma muutetaan enemmistön toivon mukaan. 50% jäsenen äänet riittää ohjeman muutoon. Mikäli ohjelman muutos aiheuttaa rahan asian muutosta,
 uusi ohjelma tulee voimaan muutoksen päivän viimeisestä minuutista (23:59) lähtien kolmen vuorokauden päästä.
