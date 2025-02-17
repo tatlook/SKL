@@ -1,6 +1,6 @@
 Suomen Kiroamattomuuden liiton (SKL) ohjelma
 ===
-_tämä on alustava ohjelma_
+Tämä ohjelma on voimassa 17.2.2025 alkaen.
 
 # 1. Tavoite
 ## 1.1 Kiroilun lopetaminen
