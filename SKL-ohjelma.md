@@ -1,6 +1,6 @@
 Suomen Kiroamattomuuden liiton (SKL) ohjelma
 ===
-Tämä ohjelma on voimassa 17.2.2025 alkaen.
+Tämä ohjelma on voimassa 17.2.2025 alkaen. Viimeksi muokattu: 18.2.2025
 
 # 1. Tavoite
 ## 1.1 Kiroilun lopetaminen
@@ -15,19 +15,10 @@ Toinen tavoitte on sponsoroi Juuan lukion 2023 vuosiluokan leirkoulu Italiaan. T
 liiton päätavoite.
 
 ## 1.3 Kirosanan lista
-- heleveti
-- Jumalauta
-- fuck
-- paska
-- perkele
-- perse
-- pillu
-- saatana
-- vittu
+Kaikki ja ainoastaan kaikki kieletyt sanat ovat listaattuna Suomen Kiroamattomuuden liiton WhatsApp-ryhmän kuvauksessa.
 
 # 2. Toimenpiteet
-Jos on ainakin kaksi jäsen samassa tilassa (luokassa, käytävässä jne.), heidän tehtävänsä on vahtia toisiaan. Vahtiminen ei
-ole velvollisuus. Vahtimisessa kun yksi kiroaa, toinen pitää tehdä nämä asiat järjestyksessä:
+Jos on ainakin kaksi jäsenen mielestä yksi jäsen kiroili, niin jäsen, joka huomaasi kiroilun, voi tehdä seuraavat asiat järjestyksessä.
 1. Sanoa ääneen: "`nimi` nimi kirjoissa" äänen niin, että kiroava jäsen kuuluu. 
 2. Laittaa "`nimi`" SKL:n WhatsApp-ryhmään, jonka nimi on Ilmoitautuminen
 
