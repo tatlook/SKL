@@ -1,6 +1,6 @@
 Suomen Kiroamattomuuden liiton (SKL) ohjelma
 ===
-Tämä ohjelma on voimassa 17.2.2025 alkaen. Viimeksi muokattu: 18.2.2025
+Tämä ohjelma on voimassa 17.2.2025 alkaen. Viimeksi muokattu: 25.2.2025
 
 # 1. Tavoite
 ## 1.1 Kiroilun lopetaminen
@@ -17,19 +17,24 @@ liiton päätavoite.
 ## 1.3 Kirosanan lista
 Kaikki ja ainoastaan kaikki kieletyt sanat ovat listaattuna Suomen Kiroamattomuuden liiton WhatsApp-ryhmän kuvauksessa.
 
+## 1.4 Aatu Pakarise kiusaamisen lopettaminen
+Kun juukalaista Aatua kiusataan, ei ole hyvä. Lopetetaan sitäkin.
+
 # 2. Toimenpiteet
 Jos on ainakin kaksi jäsenen mielestä yksi jäsen kiroili, niin jäsen, joka huomaasi kiroilun, voi tehdä seuraavat asiat järjestyksessä.
 1. Sanoa ääneen: "`nimi` nimi kirjoissa" äänen niin, että kiroava jäsen kuuluu. 
 2. Laittaa "`nimi`" SKL:n WhatsApp-ryhmään, jonka nimi on Ilmoitautuminen
 
 (`nimi` on kiroavan etunimi)
+Jos on ainakin kaksi jäsenen mielestä yksi jäsen kiusaa Aatua, niin jäsen, joka huomasi kiusaamisen, voi tehdä 1. jälkeen 2. niin, että viestissä
+erottuu Aatun kiusaminen eikä kiroilu.
 Sen jälkeen kiroavan täytyy tehdä yksi alla listavasta asiasta:
 1. Sanoa äskeisen kiroilun tarkoituksensa vastaava kohtelias lause. (esim. "Voi vittu" vaihtuu "Voi ei")
 2. Pyydä anteeksi monimutkaisella tavalla. (esim. "Oi suokoon anteeksi, olen todella pahoillani, että kiroilin äsken.")
 3. Tehdä yksi punnerus
 
 Viikon lauantaina sihteeri pitää laittaa WhatsApp-ryhmään laskenta, kuinka paljon kenenkin nimiä on maininnut WhatsApp-ryhmässä.
-Samana päiväna jokainen jäsen pitää maksaa 0.5€ per nimi sakko luokaretken tilille. Viesti on "`nimi` kiroilusakko"
+Samana päiväna jokainen jäsen pitää maksaa 0.5€ per nimi sakko luokaretken tilille. Aatun kiusaamisestä maksetaan sen sijaan 0.2€. Viesti on "`nimi` kiroilusakko"
 (`nimi` on jäsenen etunimi) Jos maksu on yli 100€, vain 100€ tarvitse maksaa.
 
 # 3. Jäsenien velvollisuudet
